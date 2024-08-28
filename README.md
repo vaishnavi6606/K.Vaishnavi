@@ -1,1 +1,2 @@
-Attendence management app
+Attendence management App
+Blog App
